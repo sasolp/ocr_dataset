@@ -7,6 +7,6 @@ for example, below you can see an image located in directory "8" because has 8 P
 
 or, below you can see an image located in directory "3" because has 3 Persian characters:
 
-![کلینیکها](https://github.com/sasolp/ocr_dataset/blob/main/3/-a_-_b_-_sad_Lotus_R_583.png)
+![صبا](https://github.com/sasolp/ocr_dataset/blob/main/3/-a_-_b_-_sad_Lotus_R_583.png)
 
 It is noticeable that each file name has an annotation of the content of the image.
